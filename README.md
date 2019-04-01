@@ -1,4 +1,4 @@
-# @megmore/eslint-config [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+# @mobov/eslint-config [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
 [travis-image]: https://img.shields.io/travis/standard/eslint-config-standard/master.svg
 [travis-url]: https://travis-ci.org/standard/eslint-config-standard
@@ -18,7 +18,7 @@
 This module is for advanced users. You probably want to use [`standard`](http://standardjs.com) instead :)
 
 ```bash
-npm install @megmore/eslint-config
+npm install @mobov/eslint-config
 ```
 
 ## Usage
